@@ -1,0 +1,14 @@
+---
+
+galaxy_info:
+  author: Adham Helal
+  description: "Ansible AWS S3"
+  min_ansible_version: 1.7
+  platforms:
+  - name: Ubuntu
+    versions:
+    - precise
+  categories:
+  - system
+
+dependencies: []
